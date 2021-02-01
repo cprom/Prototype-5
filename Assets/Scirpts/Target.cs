@@ -63,6 +63,7 @@ public class Target : MonoBehaviour
     {
         if (!gameObject.CompareTag("Bad"))
         {
+            
             gameManager.GameOver();
         }
         Destroy(gameObject);
