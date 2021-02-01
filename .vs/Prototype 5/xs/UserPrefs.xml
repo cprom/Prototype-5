@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8CEA0EDF-4D3B-4721-E114-1968096EC446}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scirpts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scirpts/GameManager.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scirpts/Target.cs" Line="53" Column="96" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 5" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Course Library" expanded="True">
+                <Node name="_Source_Files" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scirpts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2368e5ff-fbd2-4804-a048-65659568a36c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
