@@ -1,17 +1,20 @@
 ﻿<Properties StartupConfiguration="{8CEA0EDF-4D3B-4721-E114-1968096EC446}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scirpts/GameManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 5/Scripts/TargetX.cs">
     <Files>
-      <File FileName="Assets/Scirpts/DifficultyButton.cs" Line="19" Column="18" />
-      <File FileName="Assets/Scirpts/GameManager.cs" Line="61" Column="13" />
+      <File FileName="Assets/Challenge 5/Scripts/GameManagerX.cs" Line="103" Column="54" />
+      <File FileName="Assets/Challenge 5/Scripts/TargetX.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Prototype 5" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scirpts" expanded="True">
-                <Node name="GameManager.cs" selected="True" />
+              <Node name="Challenge 5" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="TargetX.cs" selected="True" />
+                </Node>
               </Node>
+              <Node name="Scirpts" expanded="True" />
             </Node>
           </Node>
         </State>
